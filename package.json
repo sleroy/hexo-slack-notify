@@ -4,7 +4,7 @@
   "main": "index",
   "dependencies": {
     "hexo-fs": "^0.1.6",
-    "lowdb": "^0.13.1",
+    "lowdb": "^0.17.2",
     "slack-node": "^0.1.8",
     "global-tunnel": "^1.2.0"
   }
