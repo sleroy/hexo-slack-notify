@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "main": "index",
   "dependencies": {
-    "hexo-fs": "^0.1.6",
+    "hexo-fs": "^0.2.3",
     "lowdb": "^0.13.1",
     "slack-node": "^0.1.8",
     "global-tunnel": "^1.2.0"
